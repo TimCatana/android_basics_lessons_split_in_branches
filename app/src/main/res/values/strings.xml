@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Tim Catana</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, this is a really long bio.
+        I don\'t know why I\'m writing
+        all of this, It\'s really late and don\'t
+        know why I\'m working on this right now.
+        I\'ve been binge learning android
+        so that I can develop the app that I
+        want to make. It\'s a really good idea
+        but I\'m not sure if it will go as planned...
+        This text needs to be long.\n\n\n\n
+        so here\'s a few spaces \n\n\n\n\n\n\n\n\n\n\n
+        aaaaaaaaaaaaaaaaaaaaaaaand more spaces \n\n\n\n\n\n
+        I guess it\'s worth a shot. Now let me finish with this really, really, reallllllllllly long line.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
